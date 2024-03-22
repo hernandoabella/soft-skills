@@ -1,94 +1,22 @@
 # soft-skills
-## contents
-Introduction to Soft Skills
+## Table of Contents
 
-Definition of soft skills
-Importance of soft skills in personal and professional development
-
-Communication Skills
-Verbal communication
-Non-verbal communication
-Active listening
-Assertiveness
-Written communication
-
-Interpersonal Skills
-Empathy
-Collaboration
-Conflict resolution
-Relationship building
-Networking
-
-Emotional Intelligence
-Self-awareness
-Self-regulation
-Social awareness
-Relationship management
-
-Leadership and Management Skills
-Vision setting
-Decision making
-Delegation
-Motivation and inspiration
-Team building
-
-Adaptability and Flexibility
-Resilience
-Open-mindedness
-Problem-solving
-Innovation
-
-Time Management and Organization
-Prioritization
-Goal setting
-Planning and scheduling
-Task management
-
-Creativity and Problem Solving
-Lateral thinking
-Innovation techniques
-Problem-solving frameworks
-
-Cultural Competence and Diversity
-Understanding cultural differences
-Inclusivity
-Cross-cultural communication
-
-Presentation Skills
-Public speaking
-Visual aids
-Audience engagement
-
-Stress Management
-Stress identification
-Coping mechanisms
-Relaxation techniques
-
-Networking and Relationship Building
-Building professional relationships
-Maintaining contacts
-Leveraging networks for career advancement
-
-Conflict Resolution
-Understanding different conflict resolution styles
-Mediation techniques
-Negotiation skills
-
-Decision Making
-Rational decision making
-Intuition in decision-making
-Risk assessment and management
-
-Continuous Learning and Improvement
-Importance of lifelong learning
-Seeking feedback
-Personal development strategies
-
-Conclusion
-Recap of key points
-Encouragement for ongoing skill development
-This table of contents should provide a comprehensive framework for your soft skills guide. Feel free to adjust it according to your specific audience and objectives.
-
+1. [Introduction to Soft Skills](#introduction-to-soft-skills)
+2. [Communication Skills](#communication-skills)
+3. [Interpersonal Skills](#interpersonal-skills)
+4. [Emotional Intelligence](#emotional-intelligence)
+5. [Leadership and Management Skills](#leadership-and-management-skills)
+6. [Adaptability and Flexibility](#adaptability-and-flexibility)
+7. [Time Management and Organization](#time-management-and-organization)
+8. [Creativity and Problem Solving](#creativity-and-problem-solving)
+9. [Cultural Competence and Diversity](#cultural-competence-and-diversity)
+10. [Presentation Skills](#presentation-skills)
+11. [Stress Management](#stress-management)
+12. [Networking and Relationship Building](#networking-and-relationship-building)
+13. [Conflict Resolution](#conflict-resolution)
+14. [Decision Making](#decision-making)
+15. [Continuous Learning and Improvement](#continuous-learning-and-improvement)
+16. [Conclusion](#conclusion)
 
 
 
